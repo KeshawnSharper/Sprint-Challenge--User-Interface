@@ -1,0 +1,8 @@
+ 1.semantic tags are tags that are used to give behavior  
+and further purpose other than presentation. Examples are  blockquote , P, ul etc...
+ 2. display: block starts on a new line and takes up 100% of the with. display:inline displays as an inline element that doesnt 
+effect any height no width properties.
+ 3. content edge, padding edge, border edge and margin edge
+ 4. Cross-axis
+ 5. git makes it easier for developers to see code that team members have created.
+and make adjustments. 
